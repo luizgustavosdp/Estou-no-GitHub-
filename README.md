@@ -8,5 +8,6 @@
 # Salvando alterações no Git
 * Aprendendo sobre o comando git push - Envia para um reposirio remoto
 * Aprendendo sobre o comando git pull - Puxar do repositorio remoto para seu codigo
-* Aprendendo sobre o comando git fetch
+* Aprendendo sobre o comando git fetch - Verificar o que pode ter no repositório remoto
+* Aprendendo sobre o comando git diff *origin/*master - para ver o que pode ser mudado no codigo, ante de utilizar o pull
 
