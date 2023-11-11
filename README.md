@@ -6,5 +6,7 @@
 
 # Estou usando esse código para aprender sobre repositorios.
 # Salvando alterações no Git
-* Aprendendo sobre o comando git push
-* Novo comando pull
+* Aprendendo sobre o comando git push - Envia para um reposirio remoto
+* Aprendendo sobre o comando git pull - Puxar do repositorio remoto para seu codigo
+* Aprendendo sobre o comando git fetch
+
