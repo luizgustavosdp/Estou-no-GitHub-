@@ -7,3 +7,4 @@
 # Estou usando esse código para aprender sobre repositorios.
 # Salvando alterações no Git
 * Aprendendo sobre o comando git push
+* Novo comando pull
