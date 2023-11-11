@@ -11,3 +11,10 @@
 * Aprendendo sobre o comando git fetch - Verificar o que pode ter no repositório remoto
 * Aprendendo sobre o comando git diff *origin/*master - para ver o que pode ser mudado no codigo, ante de utilizar o pull
 
+“O "commit" salva os arquivos do repositório no servidor, e o "push" salva as informações no servidor.”
+
+“O comando git remote permite criar, ver e excluir conexões com outros repositórios. As conexões remotas são mais parecidas com marcadores em vez de links diretos para outros repositórios”.
+
+“Um repositório remoto no Git é um repositório comum que todos os membros da equipe usam para trocar suas alterações. Na maioria dos casos, esse repositório remoto é armazenado em um serviço de hospedagem de código como o GitHub ou em um servidor interno. Em contraste com um repositório local, um repositório remoto normalmente não fornece uma árvore de arquivos do estado atual do projeto”.
+
+
