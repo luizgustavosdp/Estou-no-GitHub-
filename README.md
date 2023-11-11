@@ -5,4 +5,5 @@
 - 📫 How to contact me... send me an email at luizgustavo.contato@outlook.com
 
 # Estou usando esse código para aprender sobre repositorios.
-# Salvando alterações no Git.
+# Salvando alterações no Git
+* Aprendendo sobre o comando git push
