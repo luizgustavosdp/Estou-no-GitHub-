@@ -1,8 +1,4 @@
-- 👋 Hello, I'm @luizgustavosdp
-- 👀 I'm interested in... being a software, games and mobile app developer
-- 🌱 I'm currently learning... Improving my programming skills, with a greater focus on Python. But I'm also interested in C/C++.
-- 💞️ I'm looking to collaborate on... Developing great apps and websites, maybe even games. I really want to learn to program and gain more experience and portfolio.
-- 📫 How to contact me... send me an email at luizgustavo.contato@outlook.com
+👋 Olá, sou @luizgustavosdp👀 Estou interessado em... ser desenvolvedor de software, jogos e aplicativos móveis🌱 Atualmente estou aprendendo... Aprimorando minhas habilidades de programação, com foco maior em Python. Mas também estou interessado em C/C++.💞️ Procuro colaborar no... Desenvolvimento de ótimos aplicativos e sites, talvez até jogos. Quero muito aprender a programar e ganhar mais experiência e portfólio.📫 Como entrar em contato comigo... envie-me um e-mail para luizgustavo.contato@outlook.com
 
 
 * Aprendendo Sobre Git e GitHub:
